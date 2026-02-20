@@ -1,0 +1,18 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+}
+ul, ol {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+img, video {
+  max-width: 100%;
+  display: block;
+}
