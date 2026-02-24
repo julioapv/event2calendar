@@ -19,7 +19,7 @@ function App() {
     <>
       <div>
         <h1>Event2Calendar</h1>
-        <p>Create multiple events with and import them to Google Calendar</p>
+        <p>Create multiple events and import them to Google Calendar</p>
 
         <div>
           <p>Select the data for your event</p>
